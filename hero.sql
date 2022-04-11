@@ -1,4 +1,6 @@
  /*Les requêtes sql*/
+SELECT Nom FROM Héros
+ORDER BY Nom ASC;
 /**/
 SELECT Nom, PV FROM Héros 
 WHERE PV = 40;
